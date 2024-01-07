@@ -7,6 +7,9 @@ Dedicado em aprender novas tecnologias e metodologias para fornecer as melhores 
 Estou no processo de aprendizado e breve estarei mudando as estatísticas.
 Hoje estou aprofundando mais em PHP com Laravel para o backend e para o frontend estou aprofundando o conhecimento em Vue.js.
 
+## Estudando no momento
+[![Ingles](https://img.shields.io/badge/inglês-1572B6?style=for-the-badge&logo=bookstack&logoColor=fff)](https://www.udemy.com/course/domine-o-ingles-rapido/)
+[![Docker](https://img.shields.io/badge/docker-1572B6?style=for-the-badge&logo=docker&logoColor=fff)](https://www.docker.com/)
 
 ![Waleriano GitHub stats](https://github-readme-stats.vercel.app/api?username=MetzkerDeveloper&show_icons=true&theme=radical)
 
@@ -36,11 +39,6 @@ Hoje estou aprofundando mais em PHP com Laravel para o backend e para o frontend
 [![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## Estudando no momento
-[![Ingles](https://img.shields.io/badge/inglês-1572B6?style=for-the-badge&logo=bookstack&logoColor=fff)](https://www.udemy.com/course/domine-o-ingles-rapido/)
-[![Docker](https://img.shields.io/badge/docker-1572B6?style=for-the-badge&logo=docker&logoColor=fff)](https://www.docker.com/)
-
 
 ## Contato
 
