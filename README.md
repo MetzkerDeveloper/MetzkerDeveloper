@@ -22,6 +22,7 @@ Hoje estou aprofundando mais em PHP com Laravel para o backend e para o frontend
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Bibliotecas e Frameworks
 
@@ -29,9 +30,11 @@ Hoje estou aprofundando mais em PHP com Laravel para o backend e para o frontend
 ![Tailwindcss](https://img.shields.io/badge/tailwind_css-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)
 ![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=Laravel&labelColor=0D1117)
 ![Vue](https://img.shields.io/badge/Vue_js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)
+![React Native](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 
 ## Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Sql Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
 
 ## Habilidades
 
