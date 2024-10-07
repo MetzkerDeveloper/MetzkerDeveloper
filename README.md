@@ -1,11 +1,46 @@
+# Waleriano Metzker
+Desenvolvedor PHP Laravel  | JS
 
-# Olá! Sou Waleriano Metzker 
+🌐 Localização: Teófilo Otoni, Minas Gerais
+
+📧 Email: [walerianoadm@gmail.com](mailto:walerianoadm@gmail.com)
 
 ## Sobre mim:
 
-Dedicado em aprender novas tecnologias e metodologias para fornecer as melhores soluções no desenvolvimento.
-Estou no processo de aprendizado e breve estarei mudando as estatísticas.
-Hoje estou aprofundando mais em PHP com Laravel para o backend e para o frontend estou aprofundando o conhecimento em Vue.js.
+Sou um desenvolvedor de sistemas com experiência em desenvolvimento de aplicações web utilizando PHP e Laravel, com foco na área administrativa de farmácias. Tenho um forte conhecimento em controle de versões, manutenção de aplicações legadas e integração com bancos de dados SQL Server e MySQL. Minha paixão por tecnologia e resolução de problemas me motiva a buscar constantemente novas soluções e aprimoramentos.
+
+## Experiência Profissional
+
+Desenvolvedor PHP Laravel
+
+[Farmácia Indiana](https://www.linkedin.com/company/farmaciaindiana/posts/?feedView=all) — Teófilo Otoni, Minas Gerais
+
+Maio 2024 - Atualmente
+
+
+- Efetuei manutenção e migração de aplicações legadas, melhorando a performance e a segurança das informações.
+- Integrei aplicações com bancos de dados SQL Server e MySQL, assegurando a correta gestão dos dados.
+- Desenvolvi comunicações e integrações com serviços internos, incluindo filas de processamento (jobs/cron jobs), para automatizar tarefas e reduzir a carga manual.
+- Realizei controle de versões utilizando Git, garantindo a integridade e a rastreabilidade do código.
+
+## Habilidades
+- PHP
+- Laravel
+- Desenvolvimento Web
+- SQL Server
+- MySQL
+- Git
+- Github
+- Integração de Sistemas
+- Manutenção de Aplicações Legadas
+- Automação de Processos
+
+
+## Certificações
+- [Potência Tech iFood - Programação do Zero](https://www.dio.me/certificate/30719E85/share) — Dio, 2024
+- [Entendendo Algoritmos e Fluxogramas](https://www.dio.me/certificate/BB81D8E2/share) — Dio, 2024
+- [PHP do Zero a Maestria + 4 Projetos incríveis](https://www.udemy.com/certificate/UC-dd39d477-c903-492b-a5d2-e57cb3ee0039/) — Udemy, 2023
+
 
 ## Estudando no momento
 [![Ingles](https://img.shields.io/badge/inglês-1572B6?style=for-the-badge&logo=bookstack&logoColor=fff)](https://www.udemy.com/course/domine-o-ingles-rapido/)
@@ -32,16 +67,6 @@ Hoje estou aprofundando mais em PHP com Laravel para o backend e para o frontend
 ![Vue](https://img.shields.io/badge/Vue_js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)
 ![React Native](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 
-## Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Sql Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
-
-## Habilidades
-
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/pt)
-[![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Contato
 
