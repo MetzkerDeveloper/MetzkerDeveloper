@@ -1,5 +1,5 @@
 # Waleriano Metzker
-Desenvolvedor PHP Laravel  | JS
+Desenvolvedor - PHP | Laravel | Livewire | Javascript
 
 🌐 Localização: Teófilo Otoni, Minas Gerais
 
@@ -7,7 +7,8 @@ Desenvolvedor PHP Laravel  | JS
 
 ## Sobre mim:
 
-Sou um desenvolvedor de sistemas com experiência em desenvolvimento de aplicações web utilizando PHP e Laravel, com foco na área administrativa de farmácias. Tenho um forte conhecimento em controle de versões, manutenção de aplicações legadas e integração com bancos de dados SQL Server e MySQL. Minha paixão por tecnologia e resolução de problemas me motiva a buscar constantemente novas soluções e aprimoramentos.
+Sou desenvolvedor de sistemas full stack, comprometido com o aprendizado contínuo e o desenvolvimento profissional. Busco contribuir ativamente para o crescimento da equipe e da organização que enriquecem o ambiente de trabalho.
+
 
 ## Experiência Profissional
 
@@ -26,11 +27,12 @@ Maio 2024 - Atualmente
 ## Habilidades
 - PHP
 - Laravel
-- Desenvolvimento Web
+- Livewire
+- Docker
 - SQL Server
 - MySQL
 - Git
-- Github
+- Github e Bitbucket
 - Integração de Sistemas
 - Manutenção de Aplicações Legadas
 - Automação de Processos
@@ -45,6 +47,8 @@ Maio 2024 - Atualmente
 ## Estudando no momento
 [![Ingles](https://img.shields.io/badge/inglês-1572B6?style=for-the-badge&logo=bookstack&logoColor=fff)](https://www.udemy.com/course/domine-o-ingles-rapido/)
 [![Docker](https://img.shields.io/badge/docker-1572B6?style=for-the-badge&logo=docker&logoColor=fff)](https://www.docker.com/)
+[![Dart](https://img.shields.io/badge/dart-1572B6?style=for-the-badge&logo=dart&logoColor=#0175C2)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/flutter-1572B6?style=for-the-badge&logo=flutter&logoColor=#0175C2)](https://docs.flutter.dev/)
 
 ![Waleriano GitHub stats](https://github-readme-stats.vercel.app/api?username=MetzkerDeveloper&show_icons=true&theme=radical)
 
@@ -58,6 +62,7 @@ Maio 2024 - Atualmente
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+[![Dart](https://img.shields.io/badge/dart-1572B6?style=for-the-badge&logo=dart&logoColor=#0175C2)
 
 ## Bibliotecas e Frameworks
 
