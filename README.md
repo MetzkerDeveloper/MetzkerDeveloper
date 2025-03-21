@@ -69,6 +69,7 @@ Maio 2024 - Atualmente
 ![Bootstrap](https://img.shields.io/badge/boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![Tailwindcss](https://img.shields.io/badge/tailwind_css-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)
 ![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=Laravel&labelColor=0D1117)
+![Livewire](https://img.shields.io/badge/livewire-ff00d0?style=for-the-badge&logo=livewire&labelColor=#4E56A6)
 ![Vue](https://img.shields.io/badge/Vue_js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)
 ![React Native](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 
