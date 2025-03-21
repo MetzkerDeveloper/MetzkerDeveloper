@@ -62,7 +62,7 @@ Maio 2024 - Atualmente
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-[![Dart](https://img.shields.io/badge/dart-1572B6?style=for-the-badge&logo=dart&logoColor=#0175C2)
+![Dart](https://img.shields.io/badge/dart-1572B6?style=for-the-badge&logo=dart&logoColor=#0175C2)
 
 ## Bibliotecas e Frameworks
 
